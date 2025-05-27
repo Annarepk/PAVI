@@ -4,6 +4,7 @@
 [submodule "Laboratory_2"]
 	path = Laboratory_2
 	url = https://github.com/Annarepk/PAVI_lab2.git
+	branch = main
 [submodule "Laboratory_3"]
 	path = Laboratory_3
 	url = https://github.com/Annarepk/PAVI_lab3.git
