@@ -1,0 +1,30 @@
+[submodule "Laboratory_1"]
+	path = Laboratory_1
+	url = https://github.com/Annarepk/PAVI_lab1.git
+[submodule "Laboratory_2"]
+	path = Laboratory_2
+	url = https://github.com/Annarepk/PAVI_lab2.git
+[submodule "Laboratory_3"]
+	path = Laboratory_3
+	url = https://github.com/Annarepk/PAVI_lab3.git
+[submodule "Laboratory_4"]
+	path = Laboratory_4
+	url = https://github.com/Annarepk/PAVI_lab4.git
+[submodule "Laboratory_5"]
+	path = Laboratory_5
+	url = https://github.com/Annarepk/PAVI_lab5.git
+[submodule "Laboratory_6"]
+	path = Laboratory_6
+	url = https://github.com/Annarepk/PAVI_lab6.git
+[submodule "Laboratory_8"]
+	path = Laboratory_8
+	url = https://github.com/Annarepk/PAVI_lab8.git
+[submodule "Laboratory_9"]
+	path = Laboratory_9
+	url = https://github.com/Annarepk/PAVI_lab9.git
+[submodule "Laboratory_10"]
+	path = Laboratory_10
+	url = https://github.com/Annarepk/PAVI_lab10.git
+[submodule "Laboratory_7"]
+	path = Laboratory_7
+	url = https://github.com/Annarepk/PAVI_lab7.git
