@@ -121,15 +121,15 @@ _Цветовые модели и изменение размера изобра
 
 ### Оригинальное изображение:
 
-<img src="Laboratory_1/Pictures/color_models/carps/carps.png" width="250">
+<img src="Pictures/Laboratory_1/color_models/carps/carps.png" width="250">
 
 ### R, G, B компоненты:
 
 <table>
   <tr>
-    <td><img src="Laboratory_1/Pictures/color_models/carps/RGB/carpsRed.png" width="250"></td>
-    <td><img src="Laboratory_1/Pictures/color_models/carps/RGB/carpsGreen.png" width="250"></td>
-    <td><img src="Laboratory_1/Pictures/color_models/carps/RGB/carpsBlue.png" width="250"></td>
+    <td><img src="Pictures/Laboratory_1/color_models/carps/RGB/carpsRed.png" width="250"></td>
+    <td><img src="Pictures/Laboratory_1/color_models/carps/RGB/carpsGreen.png" width="250"></td>
+    <td><img src="Pictures/Laboratory_1/color_models/carps/RGB/carpsBlue.png" width="250"></td>
   </tr>
 </table>
 
@@ -139,17 +139,17 @@ _Цветовые модели и изменение размера изобра
   <tr>
     <td>
       <figure>
-        <img src="Laboratory_1/Pictures/color_models/carps/HSI/carpsHSI.png" width="250">
+        <img src="Pictures/Laboratory_1/color_models/carps/HSI/carpsHSI.png" width="250">
         <figcaption>RGB -> HSI</figcaption>
       </figure></td>
     <td>
       <figure>
-        <img src="Laboratory_1/Pictures/color_models/carps/HSI/carpsIntensity.png" width="250">
+        <img src="Pictures/Laboratory_1/color_models/carps/HSI/carpsIntensity.png" width="250">
         <figcaption>Компонента яркости</figcaption>
       </figure></td>
     <td>
       <figure>
-        <img src="Laboratory_1/Pictures/color_models/carps/HSI/carpsInvIntensity.png" width="250">
+        <img src="Pictures/Laboratory_1/color_models/carps/HSI/carpsInvIntensity.png" width="250">
         <figcaption>RGB с инвертированной яркостью</figcaption>
       </figure></td>
   </tr>
@@ -161,7 +161,7 @@ _Цветовые модели и изменение размера изобра
 
 ### Оригинальное изображение:
 
-<img src="Laboratory_1/Pictures/resampling/street/street.png" width="300">
+<img src="Pictures/Laboratory_1/resampling/street/street.png" width="300">
 
 ### Сжатие:
 
@@ -169,17 +169,17 @@ _Цветовые модели и изменение размера изобра
   <tr>
     <td>
       <figure>
-        <img src="Laboratory_1/Pictures/resampling/street/streetCrop.png" width="300">
+        <img src="Pictures/Laboratory_1/resampling/street/streetCrop.png" width="300">
         <figcaption>Оригинал</figcaption>
       </figure></td>
     <td>
       <figure>
-        <img src="Laboratory_1/Pictures/resampling/street/downsampling/x0.5/streetNearestCrop.png" width="300">
+        <img src="Pictures/Laboratory_1/resampling/street/downsampling/x0.5/streetNearestCrop.png" width="300">
         <figcaption>x0.5</figcaption>
       </figure></td>
     <td>
       <figure>
-        <img src="Laboratory_1/Pictures/resampling/street/downsampling/x0.3/streetNearestCrop.png" width="300">
+        <img src="Pictures/Laboratory_1/resampling/street/downsampling/x0.3/streetNearestCrop.png" width="300">
         <figcaption>x0.3</figcaption>
       </figure></td>
   </tr>
@@ -191,17 +191,17 @@ _Цветовые модели и изменение размера изобра
   <tr>
     <td>
       <figure>
-        <img src="Laboratory_1/Pictures/resampling/street/streetCropUP.png" width="300">
+        <img src="Pictures/Laboratory_1/resampling/street/streetCropUP.png" width="300">
         <figcaption>Оригинал</figcaption>
       </figure></td>
     <td>
       <figure>
-        <img src="Laboratory_1/Pictures/resampling/street/upsampling/x1.3/streetNearestCrop.png" width="300">
+        <img src="Pictures/Laboratory_1/resampling/street/upsampling/x1.3/streetNearestCrop.png" width="300">
         <figcaption>x1.3</figcaption>
       </figure></td>
     <td>
       <figure>
-        <img src="Laboratory_1/Pictures/resampling/street/upsampling/x2/streetNearestCrop.png" width="300">
+        <img src="Pictures/Laboratory_1/resampling/street/upsampling/x2/streetNearestCrop.png" width="300">
         <figcaption>x2</figcaption>
       </figure></td>
   </tr>
@@ -213,17 +213,17 @@ _Цветовые модели и изменение размера изобра
   <tr>
     <td>
       <figure>
-        <img src="Laboratory_1/Pictures/resampling/street/resampling/streetSinglePass0.3Crop.png" width="300">
+        <img src="Pictures/Laboratory_1/resampling/street/resampling/streetSinglePass0.3Crop.png" width="300">
         <figcaption>x0.3</figcaption>
       </figure></td>
     <td>
       <figure>
-        <img src="Laboratory_1/Pictures/resampling/street/streetCropUP.png" width="300">
+        <img src="Pictures/Laboratory_1/resampling/street/streetCropUP.png" width="300">
         <figcaption>Оригинал</figcaption>
       </figure></td>
     <td>
       <figure>
-        <img src="Laboratory_1/Pictures/resampling/street/resampling/streetSinglePass1.6Crop.png" width="300">
+        <img src="Pictures/Laboratory_1/resampling/street/resampling/streetSinglePass1.6Crop.png" width="300">
         <figcaption>x1.6</figcaption>
       </figure></td>
   </tr>
@@ -236,17 +236,17 @@ _Цветовые модели и изменение размера изобра
   <tr>
     <td>
       <figure>
-        <img src="Laboratory_1/Pictures/resampling/street/resampling/streetTwoPass0.7Crop.png" width="300">
+        <img src="Pictures/Laboratory_1/resampling/street/resampling/streetTwoPass0.7Crop.png" width="300">
         <figcaption>x0.7</figcaption>
       </figure></td>
     <td>
       <figure>
-        <img src="Laboratory_1/Pictures/resampling/street/streetCropUP.png" width="300">
+        <img src="Pictures/Laboratory_1/resampling/street/streetCropUP.png" width="300">
         <figcaption>Оригинал</figcaption>
       </figure></td>
     <td>
       <figure>
-        <img src="Laboratory_1/Pictures/resampling/street/resampling/streetTwoPass1.6Crop.png" width="300">
+        <img src="Pictures/Laboratory_1/resampling/street/resampling/streetTwoPass1.6Crop.png" width="300">
         <figcaption>x1.6</figcaption>
       </figure></td>
   </tr>
@@ -293,7 +293,7 @@ _Полутоновые изображения и бинаризация_
 
 ### Оригинальное изображение:
 
-<img src="Laboratory_2/Pictures/cat/cat.png" width="400">
+<img src="Pictures/Laboratory_2/cat/cat.png" width="400">
 
 _Параметры: k = 0.15, R = 80_
 
@@ -302,8 +302,8 @@ _Параметры: k = 0.15, R = 80_
 
 <table>
   <tr>
-    <td><img src="Laboratory_2/Pictures/cat/catGrayscale.bmp" width="400"></td>
-    <td><img src="Laboratory_2/Pictures/cat/catSingh.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_2/cat/catGrayscale.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_2/cat/catSingh.bmp" width="400"></td>
   </tr>
 </table>
 
@@ -311,7 +311,7 @@ _Параметры: k = 0.15, R = 80_
 
 ### Оригинальное изображение:
 
-<img src="Laboratory_2/Pictures/hogwarts/hogwarts.png" width="400">
+<img src="Pictures/Laboratory_2/hogwarts/hogwarts.png" width="400">
 
 _Параметры: k = 0.25, R = 90_
 
@@ -319,8 +319,8 @@ _Параметры: k = 0.25, R = 90_
 
 <table>
   <tr>
-    <td><img src="Laboratory_2/Pictures/hogwarts/hogwartsGrayscale.bmp" width="400"></td>
-    <td><img src="Laboratory_2/Pictures/hogwarts/hogwartsSingh.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_2/hogwarts/hogwartsGrayscale.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_2/hogwarts/hogwartsSingh.bmp" width="400"></td>
   </tr>
 </table>
 
@@ -328,7 +328,7 @@ _Параметры: k = 0.25, R = 90_
 
 ### Оригинальное изображение:
 
-<img src="Laboratory_2/Pictures/map/map.png" width="400">
+<img src="Pictures/Laboratory_2/map/map.png" width="400">
 
 _Параметры: k = 0.15, R = 130_
 
@@ -336,8 +336,8 @@ _Параметры: k = 0.15, R = 130_
 
 <table>
   <tr>
-    <td><img src="Laboratory_2/Pictures/map/mapGrayscale.bmp" width="400"></td>
-    <td><img src="Laboratory_2/Pictures/map/mapSingh.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_2/map/mapGrayscale.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_2/map/mapSingh.bmp" width="400"></td>
   </tr>
 </table>
 
@@ -345,7 +345,7 @@ _Параметры: k = 0.15, R = 130_
 
 ### Оригинальное изображение:
 
-<img src="Laboratory_2/Pictures/x_ray/x_ray.png" width="400">
+<img src="Pictures/Laboratory_2/x_ray/x_ray.png" width="400">
 
 _Параметры: k = 0.15, R = 7_
 
@@ -353,8 +353,8 @@ _Параметры: k = 0.15, R = 7_
 
 <table>
   <tr>
-    <td><img src="Laboratory_2/Pictures/x_ray/x_rayGrayscale.bmp" width="400"></td>
-    <td><img src="Laboratory_2/Pictures/x_ray/x_raySingh.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_2/x_ray/x_rayGrayscale.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_2/x_ray/x_raySingh.bmp" width="400"></td>
   </tr>
 </table>
 
@@ -429,15 +429,15 @@ _Морфологические операции над изображениям
 
 ### Оригинальное изображение:
 
-<img src="Laboratory_3/Pictures/cat/cat.png" width="400">
+<img src="Pictures/Laboratory_3/cat/cat.png" width="400">
 
 ### Монохромное, отфильтрованное и разностное изображение:
 
 <table>
   <tr>
-    <td><img src="Laboratory_3/Pictures/cat/catSingh.bmp" width="400"></td>
-    <td><img src="Laboratory_3/Pictures/cat/catOpened.bmp" width="400"></td>
-    <td><img src="Laboratory_3/Pictures/cat/catDiff.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_3/cat/catSingh.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_3/cat/catOpened.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_3/cat/catDiff.bmp" width="400"></td>
   </tr>
 </table>
 
@@ -445,15 +445,15 @@ _Морфологические операции над изображениям
 
 ### Оригинальное изображение:
 
-<img src="Laboratory_3/Pictures/hogwarts/hogwarts.png" width="400">
+<img src="Pictures/Laboratory_3/hogwarts/hogwarts.png" width="400">
 
 ### Монохромное, отфильтрованное и разностное изображение:
 
 <table>
   <tr>
-    <td><img src="Laboratory_3/Pictures/hogwarts/hogwartsSingh.bmp" width="400"></td>
-    <td><img src="Laboratory_3/Pictures/hogwarts/hogwartsOpened.bmp" width="400"></td>
-    <td><img src="Laboratory_3/Pictures/hogwarts/hogwartsDiff.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_3/hogwarts/hogwartsSingh.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_3/hogwarts/hogwartsOpened.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_3/hogwarts/hogwartsDiff.bmp" width="400"></td>
   </tr>
 </table>
 
@@ -461,15 +461,15 @@ _Морфологические операции над изображениям
 
 ### Оригинальное изображение:
 
-<img src="Laboratory_3/Pictures/map/map.png" width="400">
+<img src="Pictures/Laboratory_3/map/map.png" width="400">
 
 ### Монохромное, отфильтрованное и разностное изображение:
 
 <table>
   <tr>
-    <td><img src="Laboratory_3/Pictures/map/mapSingh.bmp" width="400"></td>
-    <td><img src="Laboratory_3/Pictures/map/mapOpened.bmp" width="400"></td>
-    <td><img src="Laboratory_3/Pictures/map/mapDiff.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_3/map/mapSingh.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_3/map/mapOpened.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_3/map/mapDiff.bmp" width="400"></td>
   </tr>
 </table>
 
@@ -477,15 +477,15 @@ _Морфологические операции над изображениям
 
 ### Оригинальное изображение:
 
-<img src="Laboratory_3/Pictures/x_ray/x_ray.png" width="400">
+<img src="Pictures/Laboratory_3/x_ray/x_ray.png" width="400">
 
 ### Монохромное, отфильтрованное и разностное изображение:
 
 <table>
   <tr>
-    <td><img src="Laboratory_3/Pictures/x_ray/x_raySingh.bmp" width="400"></td>
-    <td><img src="Laboratory_3/Pictures/x_ray/x_rayOpened.bmp" width="400"></td>
-    <td><img src="Laboratory_3/Pictures/x_ray/x_rayDiff.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_3/x_ray/x_raySingh.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_3/x_ray/x_rayOpened.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_3/x_ray/x_rayDiff.bmp" width="400"></td>
   </tr>
 </table>
 
@@ -554,7 +554,7 @@ _Выделение границ изображений_
 
 ### Оригинальное изображение:
 
-<img src="Laboratory_4/Pictures/cat/cat.png" width="250">
+<img src="Pictures/Laboratory_4/cat/cat.png" width="250">
 
 _Параметр: T = 30_
 
@@ -562,8 +562,8 @@ _Параметр: T = 30_
 
 <table>
   <tr>
-    <td><img src="Laboratory_4/Pictures/cat/catGrayscale.bmp" width="400"></td>
-    <td><img src="Laboratory_4/Pictures/cat/catBinary.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_4/cat/catGrayscale.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_4/cat/catBinary.bmp" width="400"></td>
   </tr>
 </table>
 
@@ -571,9 +571,9 @@ _Параметр: T = 30_
 
 <table>
   <tr>
-    <td><img src="Laboratory_4/Pictures/cat/catGx.bmp" width="400"></td>
-    <td><img src="Laboratory_4/Pictures/cat/catGy.bmp" width="400"></td>
-    <td><img src="Laboratory_4/Pictures/cat/catG.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_4/cat/catGx.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_4/cat/catGy.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_4/cat/catG.bmp" width="400"></td>
   </tr>
 </table>
 
@@ -584,14 +584,14 @@ _Параметр: T = 80_
 
 ### Оригинальное изображение:
 
-<img src="Laboratory_4/Pictures/hogwarts/hogwarts.png" width="250">
+<img src="Pictures/Laboratory_4/hogwarts/hogwarts.png" width="250">
 
 ### Полутон, бинаризованная матрица:
 
 <table>
   <tr>
-    <td><img src="Laboratory_4/Pictures/hogwarts/hogwartsGrayscale.bmp" width="400"></td>
-    <td><img src="Laboratory_4/Pictures/hogwarts/hogwartsBinary.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_4/hogwarts/hogwartsGrayscale.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_4/hogwarts/hogwartsBinary.bmp" width="400"></td>
   </tr>
 </table>
 
@@ -599,9 +599,9 @@ _Параметр: T = 80_
 
 <table>
   <tr>
-    <td><img src="Laboratory_4/Pictures/hogwarts/hogwartsGx.bmp" width="400"></td>
-    <td><img src="Laboratory_4/Pictures/hogwarts/hogwartsGy.bmp" width="400"></td>
-    <td><img src="Laboratory_4/Pictures/hogwarts/hogwartsG.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_4/hogwarts/hogwartsGx.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_4/hogwarts/hogwartsGy.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_4/hogwarts/hogwartsG.bmp" width="400"></td>
   </tr>
 </table>
 
@@ -609,7 +609,7 @@ _Параметр: T = 80_
 
 ### Оригинальное изображение:
 
-<img src="Laboratory_4/Pictures/map/map.png" width="250">
+<img src="Pictures/Laboratory_4/map/map.png" width="250">
 
 _Параметр: T = 100_
 
@@ -617,8 +617,8 @@ _Параметр: T = 100_
 
 <table>
   <tr>
-    <td><img src="Laboratory_4/Pictures/map/mapGrayscale.bmp" width="400"></td>
-    <td><img src="Laboratory_4/Pictures/map/mapBinary.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_4/map/mapGrayscale.bmp" width="400"></td>
+    <td><img src="Pictures/Laboratory_4/map/mapBinary.bmp" width="400"></td>
   </tr>
 </table>
 
@@ -729,12 +729,12 @@ _Выделение признаков символов_
 
 <table>
   <tr>
-    <td><img src="Laboratory_5/letters/b.bmp" height="100"></td>
-    <td><img src="Laboratory_5/letters/i.bmp" height="100"></td>
-    <td><img src="Laboratory_5/letters/ğ.bmp" height="100"></td>
-    <td><img src="Laboratory_5/letters/ö.bmp" height="100"></td>
-    <td><img src="Laboratory_5/letters/ş.bmp" height="100"></td>
-    <td><img src="Laboratory_5/letters/ü.bmp" height="100"></td>
+    <td><img src="Pictures/Laboratory_5/letters/b.bmp" height="100"></td>
+    <td><img src="Pictures/Laboratory_5/letters/i.bmp" height="100"></td>
+    <td><img src="Pictures/Laboratory_5/letters/ğ.bmp" height="100"></td>
+    <td><img src="Pictures/Laboratory_5/letters/ö.bmp" height="100"></td>
+    <td><img src="Pictures/Laboratory_5/letters/ş.bmp" height="100"></td>
+    <td><img src="Pictures/Laboratory_5/letters/ü.bmp" height="100"></td>
   </tr>
 </table>
 
@@ -742,24 +742,24 @@ _Выделение признаков символов_
 
 <table>
   <tr>
-    <td><img src="Laboratory_5/letters/f.bmp" height="100"></td>
-    <td><img src="Laboratory_5/profiles/fProfile.png" height="300"></td>
+    <td><img src="Pictures/Laboratory_5/letters/f.bmp" height="100"></td>
+    <td><img src="Pictures/Laboratory_5/profiles/fProfile.png" height="300"></td>
   </tr>
   <tr>
-    <td><img src="Laboratory_5/letters/ğ.bmp" height="100"></td>
-    <td><img src="Laboratory_5/profiles/ğProfile.png" height="300"></td>
+    <td><img src="Pictures/Laboratory_5/letters/ğ.bmp" height="100"></td>
+    <td><img src="Pictures/Laboratory_5/profiles/ğProfile.png" height="300"></td>
   </tr>
   <tr>
-    <td><img src="Laboratory_5/letters/ö.bmp" height="100"></td>
-    <td><img src="Laboratory_5/profiles/öProfile.png" height="300"></td>
+    <td><img src="Pictures/Laboratory_5/letters/ö.bmp" height="100"></td>
+    <td><img src="Pictures/Laboratory_5/profiles/öProfile.png" height="300"></td>
   </tr>
   <tr>
-    <td><img src="Laboratory_5/letters/ş.bmp" height="100"></td>
-    <td><img src="Laboratory_5/profiles/şProfile.png" height="300"></td>
+    <td><img src="Pictures/Laboratory_5/letters/ş.bmp" height="100"></td>
+    <td><img src="Pictures/Laboratory_5/profiles/şProfile.png" height="300"></td>
   </tr>
   <tr>
-    <td><img src="Laboratory_5/letters/ü.bmp" height="100"></td>
-    <td><img src="Laboratory_5/profiles/üProfile.png" height="300"></td>
+    <td><img src="Pictures/Laboratory_5/letters/ü.bmp" height="100"></td>
+    <td><img src="Pictures/Laboratory_5/profiles/üProfile.png" height="300"></td>
   </tr>
 </table>
 
@@ -873,38 +873,38 @@ _Сегментация текста_
 - Шрифт: Times New Roman, 52pt
 - Пример входного изображения:
 
-<img src="Laboratory_6/textBin.bmp" height="100">
+<img src="Pictures/Laboratory_6/textBin.bmp" height="100">
 
 ## Результаты работы
 
 ### Профили текста
-<img src="Laboratory_6/textProf.png" width="1000">
+<img src="Pictures/Laboratory_6/textProf.png" width="1000">
 
 ### Сегментированный текст
-<img src="Laboratory_6/textSegm.png" height="100">
+<img src="Pictures/Laboratory_6/textSegm.png" height="100">
 
 ## Примеры профилей символов
 
 <table>
   <tr>
-    <td><img src="Laboratory_6/letters/f.bmp" height="100"></td>
-    <td><img src="Laboratory_6/profiles/fProfile.png" height="300"></td>
+    <td><img src="Pictures/Laboratory_6/letters/f.bmp" height="100"></td>
+    <td><img src="Pictures/Laboratory_6/profiles/fProfile.png" height="300"></td>
   </tr>
   <tr>
-    <td><img src="Laboratory_6/letters/ğ.bmp" height="100"></td>
-    <td><img src="Laboratory_6/profiles/ğProfile.png" height="300"></td>
+    <td><img src="Pictures/Laboratory_6/letters/ğ.bmp" height="100"></td>
+    <td><img src="Pictures/Laboratory_6/profiles/ğProfile.png" height="300"></td>
   </tr>
   <tr>
-    <td><img src="Laboratory_6/letters/ö.bmp" height="100"></td>
-    <td><img src="Laboratory_6/profiles/öProfile.png" height="300"></td>
+    <td><img src="Pictures/Laboratory_6/letters/ö.bmp" height="100"></td>
+    <td><img src="Pictures/Laboratory_6/profiles/öProfile.png" height="300"></td>
   </tr>
   <tr>
-    <td><img src="Laboratory_6/letters/ş.bmp" height="100"></td>
-    <td><img src="Laboratory_6/profiles/şProfile.png" height="300"></td>
+    <td><img src="Pictures/Laboratory_6/letters/ş.bmp" height="100"></td>
+    <td><img src="Pictures/Laboratory_6/profiles/şProfile.png" height="300"></td>
   </tr>
   <tr>
-    <td><img src="Laboratory_6/letters/ü.bmp" height="100"></td>
-    <td><img src="Laboratory_6/profiles/üProfile.png" height="300"></td>
+    <td><img src="Pictures/Laboratory_6/letters/ü.bmp" height="100"></td>
+    <td><img src="Pictures/Laboratory_6/profiles/üProfile.png" height="300"></td>
   </tr>
 </table>
 
@@ -1034,22 +1034,22 @@ _Распознавание текста по признакам_
 ## Результаты работы
 
 ### Сегментированный текст
-<img src="Laboratory_7/Bin/textBinSegm.png" height="100">
+<img src="Pictures/Laboratory_7/Bin/textBinSegm.png" height="100">
 
 ### Примеры сегментированных символов
 <table>
   <tr>
-    <td><img src="Laboratory_7/letters_from_img_Bin/1Bin.bmp" height="50"></td>
-    <td><img src="Laboratory_7/letters_from_img_Bin/15Bin.bmp" height="50"></td>
-    <td><img src="Laboratory_7/letters_from_img_Bin/23Bin.bmp" height="50"></td>
-    <td><img src="Laboratory_7/letters_from_img_Bin/25Bin.bmp" height="50"></td>
-    <td><img src="Laboratory_7/letters_from_img_Bin/28Bin.bmp" height="50"></td>
+    <td><img src="Pictures/Laboratory_7/letters_from_img_Bin/1Bin.bmp" height="50"></td>
+    <td><img src="Pictures/Laboratory_7/letters_from_img_Bin/15Bin.bmp" height="50"></td>
+    <td><img src="Pictures/Laboratory_7/letters_from_img_Bin/23Bin.bmp" height="50"></td>
+    <td><img src="Pictures/Laboratory_7/letters_from_img_Bin/25Bin.bmp" height="50"></td>
+    <td><img src="Pictures/Laboratory_7/letters_from_img_Bin/28Bin.bmp" height="50"></td>
   </tr>
 </table>
 
 ### Результаты распознавания
-Распознанная строка: sanaolanhislerimasladeğişmeyecek  
-Эталонная строка: sanaolanhislerimasladeğişmeyecek  
+Распознанная строка: `sanaolanhislerimasladeğişmeyecek`  
+Эталонная строка: `sanaolanhislerimasladeğişmeyecek`  
 Ошибок: 0, Точность: 100.00%
 
 ### Гипотезы
@@ -1090,10 +1090,34 @@ _Распознавание текста по признакам_
 | 32 | k: 0.9484589631990572  | h: 0.765927432543207  | ç: 0.723234981860685   | b: 0.7163899470457428  | ü: 0.6914989590752334   | s: 0.6598610835068464   | ö: 0.5821691548225001   | ş: 0.5779755071387985   | c: 0.5771087534148942   | a: 0.5712629075208028  | t: 0.5712496720999114   | y: 0.555096896958991    | z: 0.5447711706495104   | r: 0.5437414079645486  | e: 0.5361987032699882  | d: 0.5077856180352831   | g: 0.5044873141926104   | f: 0.4987339338708515  | u: 0.4944067905340693   | n: 0.49349863058425425  | p: 0.4790119899407438    | ğ: 0.4431756796712362   | v: 0.4235248948280866   | o: 0.4114380567619084  | i: 0.3733121314433035  | j: 0.33746035673736835 | l: 0.27478478831003855 | m: 0.2503399621339158   |
 
 ## Эксперимент с размерами шрифта
-Исходный размер: 52pt, Новый размер: 32pt
 
-Распознанная строка: vvvvvtvvvyvtvvyvvvvtvvvvyvvvvvvvvv  
-Эталонная строка: sanaolanhislerimasladeğişmeyecek  
+### Входные данные
+- Исходный размер: `52pt`
+- Новый размер: `32pt`
+- Пример входного изображения:
+
+<img src="Pictures/Laboratory_7/BinNewSize/textBinNewSize.bmp" height="100">
+
+## Результаты работы
+
+### Сегментированный текст
+<img src="Pictures/Laboratory_7/BinNewSize/textBinNewSizeSegm.png" height="100">
+
+### Примеры сегментированных символов
+<table>
+  <tr>
+    <td><img src="Pictures/Laboratory_7/letters_from_img_BinNewSize/1Bin.bmp" height="50"></td>
+    <td><img src="Pictures/Laboratory_7/letters_from_img_BinNewSize/15Bin.bmp" height="50"></td>
+    <td><img src="Pictures/Laboratory_7/letters_from_img_BinNewSize/23Bin.bmp" height="50"></td>
+    <td><img src="Pictures/Laboratory_7/letters_from_img_BinNewSize/25Bin.bmp" height="50"></td>
+    <td><img src="Pictures/Laboratory_7/letters_from_img_BinNewSize/28Bin.bmp" height="50"></td>
+  </tr>
+</table>
+
+### Результаты распознавания
+
+Распознанная строка: `vvvvvtvvvyvtvvyvvvvtvvvvyvvvvvvvvv`  
+Эталонная строка: `sanaolanhislerimasladeğişmeyecek`  
 Ошибок: 32, Точность: 0.00%
 
 ### Гипотезы
@@ -1231,20 +1255,20 @@ _Текстурный анализ и контрастирование изоб�
 ### Цветок с текстом
 
 #### Оригинальное изображение:
-<img src="Laboratory_8/Pictures/text_flower/text_flower.png" width="250">
+<img src="Pictures/Laboratory_8/text_flower/text_flower.png" width="250">
 
 #### Результаты обработки:
 <table>
   <tr>
-    <td><img src="Laboratory_8/Pictures/text_flower/text_flowerGrayscale.png" width="250"></td>
-    <td><img src="Laboratory_8/Pictures/text_flower/text_flowerContrast.png" width="250"></td>
+    <td><img src="Pictures/Laboratory_8/text_flower/text_flowerGrayscale.png" width="250"></td>
+    <td><img src="Pictures/Laboratory_8/text_flower/text_flowerContrast.png" width="250"></td>
   </tr>
   <tr>
-    <td><img src="Laboratory_8/Pictures/text_flower/text_flowerHistOrigin.png" width="400"></td>
-    <td><img src="Laboratory_8/Pictures/text_flower/text_flowerHistContrast.png" width="400"></td>
+    <td><img src="Pictures/Laboratory_8/text_flower/text_flowerHistOrigin.png" width="400"></td>
+    <td><img src="Pictures/Laboratory_8/text_flower/text_flowerHistContrast.png" width="400"></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="Laboratory_8/Pictures/text_flower/text_flowerTextureFeat.png" width="840"></td>
+    <td colspan="2"><img src="Pictures/Laboratory_8/text_flower/text_flowerTextureFeat.png" width="840"></td>
   </tr>
 </table>
 
@@ -1258,20 +1282,20 @@ _Текстурный анализ и контрастирование изоб�
 ### Текстура
 
 #### Оригинальное изображение:
-<img src="Laboratory_8/Pictures/texture/texture.png" width="250">
+<img src="Pictures/Laboratory_8/texture/texture.png" width="250">
 
 #### Результаты обработки:
 <table>
   <tr>
-    <td><img src="Laboratory_8/Pictures/texture/textureGrayscale.png" width="250"></td>
-    <td><img src="Laboratory_8/Pictures/texture/textureContrast.png" width="250"></td>
+    <td><img src="Pictures/Laboratory_8/texture/textureGrayscale.png" width="250"></td>
+    <td><img src="Pictures/Laboratory_8/texture/textureContrast.png" width="250"></td>
   </tr>
   <tr>
-    <td><img src="Laboratory_8/Pictures/texture/textureHistOrigin.png" width="400"></td>
-    <td><img src="Laboratory_8/Pictures/texture/textureHistContrast.png" width="400"></td>
+    <td><img src="Pictures/Laboratory_8/texture/textureHistOrigin.png" width="400"></td>
+    <td><img src="Pictures/Laboratory_8/texture/textureHistContrast.png" width="400"></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="Laboratory_8/Pictures/texture/textureTextureFeat.png" width="840"></td>
+    <td colspan="2"><img src="Pictures/Laboratory_8/texture/textureTextureFeat.png" width="840"></td>
   </tr>
 </table>
 
@@ -1285,20 +1309,20 @@ _Текстурный анализ и контрастирование изоб�
 ### Рентгеновский снимок
 
 #### Оригинальное изображение:
-<img src="Laboratory_8/Pictures/x_ray/x_ray.png" width="250">
+<img src="Pictures/Laboratory_8/x_ray/x_ray.png" width="250">
 
 #### Результаты обработки:
 <table>
   <tr>
-    <td><img src="Laboratory_8/Pictures/x_ray/x_rayGrayscale.png" width="250"></td>
-    <td><img src="Laboratory_8/Pictures/x_ray/x_rayContrast.png" width="250"></td>
+    <td><img src="Pictures/Laboratory_8/x_ray/x_rayGrayscale.png" width="250"></td>
+    <td><img src="Pictures/Laboratory_8/x_ray/x_rayContrast.png" width="250"></td>
   </tr>
   <tr>
-    <td><img src="Laboratory_8/Pictures/x_ray/x_rayHistOrigin.png" width="400"></td>
-    <td><img src="Laboratory_8/Pictures/x_ray/x_rayHistContrast.png" width="400"></td>
+    <td><img src="Pictures/Laboratory_8/x_ray/x_rayHistOrigin.png" width="400"></td>
+    <td><img src="Pictures/Laboratory_8/x_ray/x_rayHistContrast.png" width="400"></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="Laboratory_8/Pictures/x_ray/x_rayTextureFeat.png" width="840"></td>
+    <td colspan="2"><img src="Pictures/Laboratory_8/x_ray/x_rayTextureFeat.png" width="840"></td>
   </tr>
 </table>
 
@@ -1376,7 +1400,7 @@ _Анализ шума в аудиосигналах_
 ## Исходный сигнал
 
 ### Оригинальная спектрограмма:
-<img src="Laboratory_9/audio/spectrogram.png" width="500">
+<img src="Pictures/Laboratory_9/spectrogram.png" width="500">
 
 _Полный частотный диапазон до 20 кГц_
 
@@ -1385,8 +1409,8 @@ _Полный частотный диапазон до 20 кГц_
 ### После однократной фильтрации:
 <table>
   <tr>
-    <td><img src="Laboratory_9/audio/denoised_spectrogram_once.png" width="400"></td>
-    <td><img src="Laboratory_9/audio/denoised_spectrogram_savgol.png" width="400"></td>
+    <td><img src="Pictures/Laboratory_9/denoised_spectrogram_once.png" width="400"></td>
+    <td><img src="Pictures/Laboratory_9/denoised_spectrogram_savgol.png" width="400"></td>
   </tr>
   <tr>
     <td>Комбинированная фильтрация</td>
@@ -1395,19 +1419,19 @@ _Полный частотный диапазон до 20 кГц_
 </table>
 
 ### После двукратной фильтрации:
-<img src="Laboratory_9/audio/denoised_spectrogram_twice.png" width="500">
+<img src="Pictures/Laboratory_9/denoised_spectrogram_twice.png" width="500">
 
 ## Анализ энергии сигнала
 
 ### Распределение энергии по времени:
-<img src="Laboratory_9/audio/energy_peaks.png" width="500">
+<img src="Pictures/Laboratory_9/energy_peaks.png" width="500">
 
 _Пики отмечены вертикальными линиями_
 
 ## Сравнение аудиофайлов
-- [Исходный файл](Laboratory_9/audio/music.wav)
-- [После однократной фильтрации](Laboratory_9/audio/denoised_once.wav)
-- [После двукратной фильтрации](Laboratory_9/audio/denoised_twice.wav)
+- [Исходный файл](Pictures/Laboratory_9/music.wav)
+- [После однократной фильтрации](Pictures/Laboratory_9/denoised_once.wav)
+- [После двукратной фильтрации](Pictures/Laboratory_9/denoised_twice.wav)
 
 ***
 
@@ -1503,7 +1527,7 @@ _Обработка голосовых сигналов_
 ## Анализ звука "А"
 
 ### Спектрограмма:
-<img src="Laboratory_10/audio/results/spectrogramA.png" width="600">
+<img src="Pictures/Laboratory_10/results/spectrogramA.png" width="600">
 
 ### Характеристики:
 - Минимальная частота: 85 Гц
@@ -1514,7 +1538,7 @@ _Обработка голосовых сигналов_
 ## Анализ звука "И"
 
 ### Спектрограмма:
-<img src="Laboratory_10/audio/results/spectrogramE.png" width="600">
+<img src="Pictures/Laboratory_10/results/spectrogramE.png" width="600">
 
 ### Характеристики:
 - Минимальная частота: 95 Гц
@@ -1525,7 +1549,7 @@ _Обработка голосовых сигналов_
 ## Анализ звука "Мяу"
 
 ### Спектрограмма:
-<img src="Laboratory_10/audio/results/spectrogramMeow.png" width="600">
+<img src="Pictures/Laboratory_10/results/spectrogramMeow.png" width="600">
 
 ### Характеристики:
 - Минимальная частота: 150 Гц
